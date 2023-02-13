@@ -1,0 +1,15 @@
+[submodule "Debug"]
+	path = Debug
+	url = ../storage-universal_windows-ARM64-Debug
+[submodule "storage-universal_windows-ARM64-Release"]
+	path = storage-universal_windows-ARM64-Release
+	url = ../storage-universal_windows-ARM64-Release
+[submodule "Release"]
+	path = Release
+	url = ../storage-universal_windows-ARM64-Release
+[submodule "StaticDebug"]
+	path = StaticDebug
+	url = ../storage-universal_windows-ARM64-StaticDebug
+[submodule "StaticRelease"]
+	path = StaticRelease
+	url = ../storage-universal_windows-ARM64-StaticRelease
